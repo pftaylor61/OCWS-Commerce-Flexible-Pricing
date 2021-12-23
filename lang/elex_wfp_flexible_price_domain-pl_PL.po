@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Name Your Price\n"
+"POT-Creation-Date: 2021-08-20 11:52+0530\n"
+"PO-Revision-Date: 2021-08-20 11:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elex-woo-flexible-pricing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: elex-woo-flexible-pricing.php:35
+msgid "Name Your Price"
+msgstr "Nazwij swoją cenę"
+
+#: elex-woo-flexible-pricing.php:45
+msgid "General Settings"
+msgstr "Ustawienia główne"
+
+#: elex-woo-flexible-pricing.php:46
+msgid "<li><strong><font color=\"red\">Go Premium!</font></strong></li>"
+msgstr ""
+"<li><strong><font color=\"red\">Przejdź na Premium!</font></strong></li>"
+
+#: elex-woo-flexible-pricing.php:74
+#: includes/elex-wfp-product-flexible-price.php:10
+#: includes/elex-wfp-variable-product-flexible-pricing.php:8
+msgid "Elex Name Your Price"
+msgstr "Elex Nazwij swoją cenę"
+
+#: elex-woo-flexible-pricing.php:79
+#: includes/elex-wfp-product-flexible-price.php:19
+#: includes/elex-wfp-variable-product-flexible-pricing.php:42
+msgid "Product Min Price"
+msgstr "Cena minimalna produktu"
+
+#: elex-woo-flexible-pricing.php:81 elex-woo-flexible-pricing.php:82
+#: elex-woo-flexible-pricing.php:116 elex-woo-flexible-pricing.php:117
+#: includes/elex-wfp-product-flexible-price.php:17
+#: includes/elex-wfp-product-flexible-price.php:18
+#: includes/elex-wfp-product-flexible-price.php:75
+#: includes/elex-wfp-product-flexible-price.php:76
+#: includes/elex-wfp-variable-product-flexible-pricing.php:15
+#: includes/elex-wfp-variable-product-flexible-pricing.php:16
+#: includes/elex-wfp-variable-product-flexible-pricing.php:17
+#: includes/elex-wfp-variable-product-flexible-pricing.php:70
+#: includes/elex-wfp-variable-product-flexible-pricing.php:71
+msgid "Enable"
+msgstr "Włącz"
+
+#: elex-woo-flexible-pricing.php:83
+msgid ""
+"Enable this option to set a minimum price for all the products. <br>Please "
+"note, if you have set a minimum price at individual product level, it will "
+"override this value."
+msgstr ""
+"Włącz tę opcję, aby ustawić cenę minimalną dla wszystkich produktów. "
+"<br>Pamiętaj, że jeśli ustawiłeś cenę minimalną na poziomie pojedynczego "
+"produktu, zastąpi ona tę wartość."
+
+#: elex-woo-flexible-pricing.php:88
+#: includes/elex-wfp-product-flexible-price.php:27
+#: includes/elex-wfp-variable-product-flexible-pricing.php:25
+msgid "Set Min Price "
+msgstr "Ustaw cenę minimalną "
+
+#: elex-woo-flexible-pricing.php:92
+#: includes/elex-wfp-product-flexible-price.php:31
+msgid "Set the minimum price which the customer can proceed with payment."
+msgstr "Ustaw cenę minimalną, którą klient może kontynuować z płatnością."
+
+#: elex-woo-flexible-pricing.php:96
+#: includes/elex-wfp-product-flexible-price.php:43
+#: includes/elex-wfp-variable-product-flexible-pricing.php:40
+msgid "Min Price Label"
+msgstr "Minimalna cena etykiety"
+
+#: elex-woo-flexible-pricing.php:98
+#: includes/elex-wfp-product-flexible-price.php:165
+#: includes/elex-wfp-variable-product-flexible-pricing.php:27
+msgid "Enter Your Price"
+msgstr "Wpisz swoją cenę"
+
+#: elex-woo-flexible-pricing.php:101
+#: includes/elex-wfp-product-flexible-price.php:47
+#: includes/elex-wfp-variable-product-flexible-pricing.php:45
+msgid "Enter the label for the minimum price."
+msgstr "Wprowadź etykietę ceny minimalnej."
+
+#: elex-woo-flexible-pricing.php:105
+#: includes/elex-wfp-product-flexible-price.php:59
+#: includes/elex-wfp-variable-product-flexible-pricing.php:53
+msgid "Min Price Description"
+msgstr "Opis ceny minimalnej"
+
+#: elex-woo-flexible-pricing.php:108
+msgid "A simple min price applied to product"
+msgstr "Prosta minimalna cena zastosowana do produktu"
+
+#: elex-woo-flexible-pricing.php:110
+#: includes/elex-wfp-product-flexible-price.php:63
+#: includes/elex-wfp-variable-product-flexible-pricing.php:57
+msgid "Enter Descripton for your minimum price."
+msgstr "Wpisz Descripton dla ceny minimalnej."
+
+#: elex-woo-flexible-pricing.php:114
+#: includes/elex-wfp-product-flexible-price.php:77
+msgid "Hide Price"
+msgstr "Ukryj cenę"
+
+#: elex-woo-flexible-pricing.php:118
+msgid "Enabling this option will hide the prices from product page."
+msgstr "Włączenie tej opcji spowoduje ukrycie cen na stronie produktu."
+
+#: elex-woo-flexible-pricing.php:147
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: elex-woo-flexible-pricing.php:148
+msgid "ELEX Premium Plugins"
+msgstr "Wtyczki ELEX Premium"
+
+#: elex-woo-flexible-pricing.php:166
+msgid ""
+"WooCommerce plugin must be active for Address Validation & Google Address "
+"Auto Complete Plugin for WooCommerce(Basic) to work. "
+msgstr ""
+"Wtyczka WooCommerce musi być aktywna, aby walidacja adresu i automatyczna "
+"wtyczka uzupełniania adresu Google dla WooCommerce (podstawowa) działała. "
+
+#: includes/elex-wfp-product-flexible-price.php:20
+msgid ""
+"Enable this option to set a minimum price for this product. Please note, "
+"this value will override the global minimum price that you may have set."
+msgstr ""
+"Włącz tę opcję, aby ustawić cenę minimalną dla tego produktu. Pamiętaj, że "
+"ta wartość zastąpi globalną cenę minimalną, którą mogłeś ustawić."
+
+#: includes/elex-wfp-product-flexible-price.php:78
+#: includes/elex-wfp-variable-product-flexible-pricing.php:73
+msgid "Display Regualar/Sale price"
+msgstr "Wyświetl Regualar/Cena sprzedaży"
+
+#: includes/elex-wfp-product-flexible-price.php:245
+#: includes/elex-wfp-product-flexible-price.php:276
+msgid "Custom Price is a required field."
+msgstr "Cena niestandardowa jest polem wymaganym."
+
+#: includes/elex-wfp-product-flexible-price.php:252
+#: includes/elex-wfp-product-flexible-price.php:260
+#: includes/elex-wfp-product-flexible-price.php:282
+#: includes/elex-wfp-product-flexible-price.php:288
+msgid "Custom Price Cannot be less than "
+msgstr "Cena niestandardowa nie może być niższa niż "
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:18
+msgid ""
+"Enable this option to set a minimum price for this variation. Please note, "
+"this value will override the global minimum price that you may have set"
+msgstr ""
+"Włącz tę opcję, aby ustawić cenę minimalną dla tej odmiany. Pamiętaj, że ta "
+"wartość zastąpi globalną cenę minimalną, którą mogłeś ustawić."
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:33
+msgid "Set the minimum price of your product."
+msgstr "Ustaw minimalną cenę swojego produktu."
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:72
+msgid "  Hide Price"
+msgstr "  Ukryj cenę"
+
+#: includes/market.php:101
+msgid "ELEX Plugins You May Be Interested In"
+msgstr "Wtyczki ELEX, które mogą Cię zainteresować"
+
+#. Plugin Name of the plugin/theme
+msgid "ELEX WooCommerce Name Your Price"
+msgstr "ELEX WooCommerce Nazwij swoją cenę"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://elextensions.com/plugin/"
+msgstr "https://elextensions.com/plugin"
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin allows the customer to give his own price and proceed with the "
+"checkout. You can easily set the minimum price for your woocommerce products "
+"both globally and individually."
+msgstr ""
+"Wtyczka pozwala klientowi podać własną cenę i kontynuować realizację "
+"transakcji. Możesz łatwo ustawić minimalną cenę swoich produktów woocommerce "
+"zarówno globalnie, jak i indywidualnie."
+
+#. Author of the plugin/theme
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#~ msgid " Enable"
+#~ msgstr " Włącz"
+
+#~ msgid "  Enable"
+#~ msgstr "  Umożliwiać"
+
+#~ msgid "   Enable"
+#~ msgstr "   Umożliwiać"

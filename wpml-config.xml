@@ -1,0 +1,9 @@
+<wpml-config>
+    <admin-texts>
+		<key name="elex_cpp_settings_enable_min_product_price" />
+		<key name="elex_cpp_settings_tab_min_product_price" />
+        <key name="elex_cpp_settings_tab_min_product_price_description" />
+        <key name="elex_cpp_settings_tab_min_product_price_label" />
+		<key name="elex_cpp_settings_enable_regular_sale_price_on_product_page" />
+    </admin-texts>
+</wpml-config>

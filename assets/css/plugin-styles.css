@@ -1,0 +1,70 @@
+#custom_price_field {
+    /* margin-bottom: 5px; */
+    width: 20%;
+    height: 5%;
+    border-color: rgb(200, 210, 219);
+}
+
+.small-text-below-input {
+    color: rgb(211, 121, 121);
+    margin-bottom: 10px;
+}
+
+
+.wrap {
+    margin-bottom: 20px;
+    align-content: flex-start;
+    position: center;
+}
+
+
+.elex_cpp_custom_title_heading {
+    font-size: 1.4em;
+}
+
+.custom-min-price {
+    float: left;
+    padding-bottom: 2px;
+}
+
+.custom-min-price1 {
+    color: rgb(20, 19, 19);
+    font-size: 25;
+}
+.custom-min-price-validation {
+    color: rgb(20, 19, 19);
+    font-size: 25;
+}
+
+.wrap-validation {
+    margin-bottom: 20px;
+    align-content: flex-start;
+    position: center;
+}
+
+.custom-min-price-validation {
+    /* float: left; */
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+#custom_price_field_variation {
+    width: 20%;
+    height: 5%;
+    border-color: rgb(200, 210, 219);
+    vertical-align:middle;
+    margin-bottom:15px;
+    line-height: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    box-shadow: 0 5px 10px 5px rgba(0,0,0,0.2);
+}
+/* 
+input.style {
+    width: 10em;
+} */
+
+.description_product {
+    color: slategrey;
+    font-size: 16px;
+}

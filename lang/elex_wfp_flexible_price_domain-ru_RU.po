@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Name Your Price\n"
+"POT-Creation-Date: 2021-08-20 11:54+0530\n"
+"PO-Revision-Date: 2021-08-20 11:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elex-woo-flexible-pricing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: elex-woo-flexible-pricing.php:35
+msgid "Name Your Price"
+msgstr "Назовите свою цену"
+
+#: elex-woo-flexible-pricing.php:45
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: elex-woo-flexible-pricing.php:46
+msgid "<li><strong><font color=\"red\">Go Premium!</font></strong></li>"
+msgstr "<li><strong><font color=\"red\">Идите Премиум!</font></strong></li>"
+
+#: elex-woo-flexible-pricing.php:74
+#: includes/elex-wfp-product-flexible-price.php:10
+#: includes/elex-wfp-variable-product-flexible-pricing.php:8
+msgid "Elex Name Your Price"
+msgstr "Elex Назовите свою цену"
+
+#: elex-woo-flexible-pricing.php:79
+#: includes/elex-wfp-product-flexible-price.php:19
+#: includes/elex-wfp-variable-product-flexible-pricing.php:42
+msgid "Product Min Price"
+msgstr "Текст цены и скидка "
+
+#: elex-woo-flexible-pricing.php:81 elex-woo-flexible-pricing.php:82
+#: elex-woo-flexible-pricing.php:116 elex-woo-flexible-pricing.php:117
+#: includes/elex-wfp-product-flexible-price.php:17
+#: includes/elex-wfp-product-flexible-price.php:18
+#: includes/elex-wfp-product-flexible-price.php:75
+#: includes/elex-wfp-product-flexible-price.php:76
+#: includes/elex-wfp-variable-product-flexible-pricing.php:15
+#: includes/elex-wfp-variable-product-flexible-pricing.php:16
+#: includes/elex-wfp-variable-product-flexible-pricing.php:17
+#: includes/elex-wfp-variable-product-flexible-pricing.php:70
+#: includes/elex-wfp-variable-product-flexible-pricing.php:71
+msgid "Enable"
+msgstr "Включить"
+
+#: elex-woo-flexible-pricing.php:83
+msgid ""
+"Enable this option to set a minimum price for all the products. <br>Please "
+"note, if you have set a minimum price at individual product level, it will "
+"override this value."
+msgstr ""
+"Включите этот параметр, чтобы установить минимальную цену для всех "
+"продуктов. <br>Обратите внимание, что если вы установили минимальную цену на "
+"уровне отдельного продукта, она переопределит это значение."
+
+#: elex-woo-flexible-pricing.php:88
+#: includes/elex-wfp-product-flexible-price.php:27
+#: includes/elex-wfp-variable-product-flexible-pricing.php:25
+msgid "Set Min Price "
+msgstr "Установить минимальную цену "
+
+#: elex-woo-flexible-pricing.php:92
+#: includes/elex-wfp-product-flexible-price.php:31
+msgid "Set the minimum price which the customer can proceed with payment."
+msgstr ""
+"Установите минимальную цену, по которой клиент может продолжить оплату."
+
+#: elex-woo-flexible-pricing.php:96
+#: includes/elex-wfp-product-flexible-price.php:43
+#: includes/elex-wfp-variable-product-flexible-pricing.php:40
+msgid "Min Price Label"
+msgstr "Минимальная ценовая метка"
+
+#: elex-woo-flexible-pricing.php:98
+#: includes/elex-wfp-product-flexible-price.php:165
+#: includes/elex-wfp-variable-product-flexible-pricing.php:27
+msgid "Enter Your Price"
+msgstr "Введите Цену"
+
+#: elex-woo-flexible-pricing.php:101
+#: includes/elex-wfp-product-flexible-price.php:47
+#: includes/elex-wfp-variable-product-flexible-pricing.php:45
+msgid "Enter the label for the minimum price."
+msgstr "Введите этикетку для минимальной цены."
+
+#: elex-woo-flexible-pricing.php:105
+#: includes/elex-wfp-product-flexible-price.php:59
+#: includes/elex-wfp-variable-product-flexible-pricing.php:53
+msgid "Min Price Description"
+msgstr "Минимальное описание цены"
+
+#: elex-woo-flexible-pricing.php:108
+msgid "A simple min price applied to product"
+msgstr "Простая минимальная цена, применяемая к продукту"
+
+#: elex-woo-flexible-pricing.php:110
+#: includes/elex-wfp-product-flexible-price.php:63
+#: includes/elex-wfp-variable-product-flexible-pricing.php:57
+msgid "Enter Descripton for your minimum price."
+msgstr "Введите Descripton для вашей минимальной цены."
+
+#: elex-woo-flexible-pricing.php:114
+#: includes/elex-wfp-product-flexible-price.php:77
+msgid "Hide Price"
+msgstr "Скрыть цены"
+
+#: elex-woo-flexible-pricing.php:118
+msgid "Enabling this option will hide the prices from product page."
+msgstr "Включение этой опции скроет цены со страницы продукта."
+
+#: elex-woo-flexible-pricing.php:147
+msgid "Settings"
+msgstr "Настройки"
+
+#: elex-woo-flexible-pricing.php:148
+msgid "ELEX Premium Plugins"
+msgstr "Премиум плагины ELEX"
+
+#: elex-woo-flexible-pricing.php:166
+msgid ""
+"WooCommerce plugin must be active for Address Validation & Google Address "
+"Auto Complete Plugin for WooCommerce(Basic) to work. "
+msgstr ""
+"Плагин WooCommerce должен быть активен для проверки адреса и плагина "
+"автоматического завершения адреса Google для Работы WooCommerce (Basic). "
+
+#: includes/elex-wfp-product-flexible-price.php:20
+msgid ""
+"Enable this option to set a minimum price for this product. Please note, "
+"this value will override the global minimum price that you may have set."
+msgstr ""
+"Включите этот параметр, чтобы установить минимальную цену для этого "
+"продукта. Обратите внимание, что это значение переопределяет глобальную "
+"минимальную цену, которую вы, возможно, установили."
+
+#: includes/elex-wfp-product-flexible-price.php:78
+#: includes/elex-wfp-variable-product-flexible-pricing.php:73
+msgid "Display Regualar/Sale price"
+msgstr "Дисплей Regualar/Цена продажи"
+
+#: includes/elex-wfp-product-flexible-price.php:245
+#: includes/elex-wfp-product-flexible-price.php:276
+msgid "Custom Price is a required field."
+msgstr "Пользовательская цена является обязательным полем."
+
+#: includes/elex-wfp-product-flexible-price.php:252
+#: includes/elex-wfp-product-flexible-price.php:260
+#: includes/elex-wfp-product-flexible-price.php:282
+#: includes/elex-wfp-product-flexible-price.php:288
+msgid "Custom Price Cannot be less than "
+msgstr "Пользовательская цена не может быть меньше "
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:18
+msgid ""
+"Enable this option to set a minimum price for this variation. Please note, "
+"this value will override the global minimum price that you may have set"
+msgstr ""
+"Включите этот параметр, чтобы установить минимальную цену для этого "
+"варианта. Обратите внимание, что это значение переопределит глобальную "
+"минимальную цену, которую вы, возможно, установили."
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:33
+msgid "Set the minimum price of your product."
+msgstr "Установите минимальную цену вашего продукта."
+
+#: includes/elex-wfp-variable-product-flexible-pricing.php:72
+msgid "  Hide Price"
+msgstr "  Скрыть цену"
+
+#: includes/market.php:101
+msgid "ELEX Plugins You May Be Interested In"
+msgstr "Плагины ELEX, которые могут вас заинтересовать"
+
+#. Plugin Name of the plugin/theme
+msgid "ELEX WooCommerce Name Your Price"
+msgstr "ELEX WooCommerce Назовите свою цену"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://elextensions.com/plugin/"
+msgstr "https://elextensions.com/plugin"
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin allows the customer to give his own price and proceed with the "
+"checkout. You can easily set the minimum price for your woocommerce products "
+"both globally and individually."
+msgstr ""
+"Плагин позволяет клиенту укажите свою собственную цену и продолжить "
+"оформление заказа. Вы можете легко установить минимальную цену для ваших "
+"продуктов woocommerce как глобально, так и индивидуально."
+
+#. Author of the plugin/theme
+msgid "ELEXtensions"
+msgstr "ЭЛЕКСТЕНЗИИ"
+
+#~ msgid " Enable"
+#~ msgstr " Включить"
+
+#~ msgid "  Enable"
+#~ msgstr "  Давать возможность"
+
+#~ msgid "   Enable"
+#~ msgstr "   Давать возможность"
